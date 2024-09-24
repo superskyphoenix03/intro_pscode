@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Step 1. Begin the program.
+Step 2. Set the package count to 0.
+Step 3. For each number from 2 to 50, counting by 2:
+Option a: Show the current number.
+Option b: Increase the package count by 1.
+Step 4. After counting all the numbers, show the total number of packages.
+Step 5. Stop the program.

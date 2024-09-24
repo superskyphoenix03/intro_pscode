@@ -2,3 +2,15 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Step 1. Begin the program.
+Step 2. Set the starting position to (0, 0).
+Step 3. Ask the player for the target position (x, y).
+Step 4. While the player has not reached the target position, ask the player which direction they want to move (north, south, east, or west).
+Option a. (If the player chooses north) Move the player one step north (increase y by 1).
+Option b. (If the player chooses south) Move the player one step south (decrease y by 1).
+Option c. (If the player chooses east) Move the player one step east (increase x by 1).
+Option d. (If the user chooses west) Move the player one step west (decrease x by 1).
+Step 5. Show the player their current position.
+Step 6. When the user reaches the target position : congratulate the player for finding the spot.
+Step 7. Stop the program.
+
